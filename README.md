@@ -6,6 +6,11 @@ Participated in the research track of 2021 Terris Challenge, hosted by Superposi
 
 ### Data_preparation.ipynb
 
+Used the representation of speech data in waveform, which displays the change of amplitude over time. Explored how an accent influences the various features of waveform.
+
+
+### Data_preparation.ipynb
+
 Processing the audio data: We segmented the English speech data with Mandarin, Korean or Turkish accents into phonetic sequences and extracted various audio features from them.
 
 ### Model.ipynb
