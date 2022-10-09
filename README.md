@@ -20,6 +20,6 @@ Building a model architecture: We tried to build a model that captures both both
 
 ### Research Paper
 
-Click [Improving Automatic Transcription Model: Towards Inclusion of Diverse English Accents](https://docs.google.com/document/d/13uek6WLQc6XkAQAWf21ybCecoP0JXFBMnii-Lt1_NMM/edit?usp=sharing) to read our research paper.
+Click [Improving Automatic Transcription Model: Towards Inclusion of Diverse English Accents](https://drive.google.com/file/d/19s5VJAsTyze33cVrbFXTRYFdTMH78dgX/view?usp=sharing) to read our research paper.
 
 
