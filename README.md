@@ -2,7 +2,7 @@
 
 Su Yeon (Sally) Lee, Anik Biswas, and Sean Wu // Team Terrific Earthlings.
 
-Participated in the research track of 2021 Terris Challenge, hosted by Superposition Fremont with the project. The project won the [Research Track Wolfram Award.](https://drive.google.com/file/d/1HFEIJqwKNkX8MzAP17WceYxLJjWbZ-Ik/view?usp=sharing)
+Participated in the research track of 2021 Terris Challenge, hosted by Superposition Fremont with the project. The project won the [Research Track Wolfram Award.](https://docs.google.com/document/d/1fddaLW3ZOoThqh31T2wJBa33ztCrVyaQnbS1C7vZEPY/edit?usp=sharing)
 
 ### Data_preparation.ipynb
 
