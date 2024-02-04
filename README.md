@@ -2,7 +2,7 @@
 
 Su Yeon (Sally) Lee, Anik Biswas, and Sean Wu // Team Terrific Earthlings.
 
-Participated in the research track of 2021 Terris Challenge, hosted by Superposition Fremont with the project. The project won the [Research Track Wolfram Award.](https://docs.google.com/document/d/1fddaLW3ZOoThqh31T2wJBa33ztCrVyaQnbS1C7vZEPY/edit?usp=sharing)
+Participated in the research track of 2021 Terris Challenge, hosted by Superposition Fremont with the project. The project won the [Research Track Wolfram Award.](https://drive.google.com/file/d/1HFEIJqwKNkX8MzAP17WceYxLJjWbZ-Ik/view?usp=sharing)
 
 ### Data_preparation.ipynb
 
@@ -20,6 +20,6 @@ Building a model architecture: We tried to build a model that captures both both
 
 ### Research Paper
 
-Click [Improving Automatic Transcription Model: Towards Inclusion of Diverse English Accents](https://drive.google.com/file/d/19s5VJAsTyze33cVrbFXTRYFdTMH78dgX/view?usp=sharing) to read our research paper.
+Click [Improving Automatic Transcription Model: Towards Inclusion of Diverse English Accents](https://docs.google.com/document/d/1fddaLW3ZOoThqh31T2wJBa33ztCrVyaQnbS1C7vZEPY/edit?usp=sharing) to read our research paper.
 
 
